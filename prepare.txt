@@ -1,0 +1,4 @@
+npm install
+
+bower install ngCordova
+    <script src="lib/ngCordova/dist/ng-cordova.js"></script>
